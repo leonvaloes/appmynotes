@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_notes" android:icon="@drawable/ic_notes" android:title="@string/manage_notes" />
+        <item android:id="@+id/nav_priorities" android:icon="@drawable/ic_priority" android:title="@string/manage_priorities" />
+    </group>
+</menu>

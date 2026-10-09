@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AppMyNotes</string><string name="app_subtitle">Suas anotações, organizadas</string>
+    <string name="open_drawer">Abrir menu de navegação</string><string name="close_drawer">Fechar menu de navegação</string>
+    <string name="notes">Anotações</string><string name="priorities">Prioridades</string>
+    <string name="manage_notes">Gerenciar anotações</string><string name="manage_priorities">Gerenciar prioridades</string>
+    <string name="new_note">Nova anotação</string><string name="edit_note">Editar anotação</string>
+    <string name="new_priority">Nova prioridade</string><string name="edit_priority">Editar prioridade</string>
+    <string name="title">Título</string><string name="note_text">Texto da anotação</string><string name="priority">Prioridade</string>
+    <string name="description">Descrição</string><string name="color_hex">Cor hexadecimal</string>
+    <string name="color_example">Formato: #RRGGBB (ex.: #D32F2F)</string><string name="color_preview">Prévia da cor</string>
+    <string name="add">Adicionar</string><string name="save">Salvar</string><string name="cancel">Cancelar</string><string name="delete">Excluir</string><string name="ok">OK</string>
+    <string name="exit">Fechar aplicativo</string><string name="sort_priority">Ordenar por prioridade</string><string name="sort_alphabetical">Ordenar alfabeticamente</string>
+    <string name="sorted_by_priority">Ordenado por prioridade</string><string name="sorted_alphabetically">Ordenado em ordem alfabética</string>
+    <string name="empty_list">Nenhum item cadastrado.\nToque em + para começar.</string><string name="required_field">Este campo é obrigatório</string>
+    <string name="invalid_color">Informe uma cor no formato #RRGGBB</string><string name="create_priority_first">Cadastre uma prioridade antes de criar uma anotação.</string>
+    <string name="default_priority_color" translatable="false">#3F51B5</string>
+    <string name="duplicate_priority">Já existe uma prioridade com essa descrição.</string><string name="delete_note">Excluir anotação</string>
+    <string name="delete_note_confirmation">Deseja excluir “%1$s”?</string><string name="note_deleted">Anotação excluída</string>
+    <string name="delete_priority">Excluir prioridade</string><string name="delete_priority_confirmation">Deseja excluir a prioridade “%1$s”?</string>
+    <string name="priority_deleted">Prioridade excluída</string><string name="cannot_delete">Não é possível excluir</string>
+    <string name="priority_in_use">Essa prioridade está associada a uma ou mais anotações.</string>
+</resources>
